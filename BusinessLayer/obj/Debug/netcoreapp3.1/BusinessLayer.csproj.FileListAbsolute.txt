@@ -1,0 +1,16 @@
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Programs\EmployeePayRollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.sourcelink.json
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Programs\EmployeePayRollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

@@ -1,0 +1,72 @@
+﻿@model CommonLayer.Models.Employee
+
+@{
+    ViewData["Title"] = "GetEmpById";
+}
+
+<link rel="stylesheet" href="~/css/CommonStyle.css" />
+
+<h2 style="color:blueviolet">GetEmpById Login Employee Details</h2>
+
+<div class="row d-flex justify-content-center align-items-center shadow-lg m-2 get">
+    <div class="col-md-6">
+    <div class="text-center p-5">
+    <dl class="row ml-4 ">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProfileImage)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src=" @Html.DisplayFor(model => model.ProfileImage)" alt="image not found" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Department)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Department)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Salary)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Salary)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+    </div>
+   </div>
+</div>
+
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.EmployeeId }) |
+    <a asp-action="ListOfEmployee">Back to List</a>
+</div>
